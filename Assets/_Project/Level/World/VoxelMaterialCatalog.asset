@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75e15c5737ea419b90590a6132b2c3b, type: 3}
+  m_Name: VoxelMaterialCatalog
+  m_EditorClassIdentifier: Unity.Project.Runtime::Project.World.VoxelMaterialCatalog
+  _materials:
+  - {fileID: 11400000, guid: 78c3b9dcff0d8e8a59ff656bdc33780f, type: 2}
+  - {fileID: 11400000, guid: 589779c95e35c983eb3873c6c35db250, type: 2}
+  - {fileID: 11400000, guid: 24a62bf3e1ec742aa8632e5a4964af76, type: 2}
+  - {fileID: 11400000, guid: ee528fe09eeb92f8f952af72017ad320, type: 2}
+  - {fileID: 11400000, guid: 4e71cbfd12b8d1aa4aa0e025f0ab2df7, type: 2}
+  - {fileID: 11400000, guid: 26bdd97217ecd955aad129557216481b, type: 2}
+  - {fileID: 11400000, guid: 145faaf57e97a762e8c5953bcc56f34b, type: 2}
+  - {fileID: 11400000, guid: 9546223677f936612bcb8e06720a3f97, type: 2}
+  - {fileID: 11400000, guid: bc28d1a1004eed7538a28d42e51ce8db, type: 2}
+  - {fileID: 11400000, guid: 60d68eec9aa17839883aa855b9f072ff, type: 2}
+  - {fileID: 11400000, guid: c302a275652b36375b7fa9223f980a49, type: 2}
